@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenRGB</string>
+    <string name="next">Dále</string>
+    <string name="previous">Předchozí</string>
+    <string name="enterIPadressprompt">Zadej IP adresu zařízení na kterém je zapnuto OpenRGB</string>
+    <string name="HostSDK">Nezapomeň zapnout SDK v OpenRGB. Tohle budeš muset udělat pokaždé co restartuješ počítač/OpenRGB</string>
+    <string name="FirstSetup">Nyní začneme s nastavením aplikace. Tohle bude jenom jednou.</string>
+</resources>

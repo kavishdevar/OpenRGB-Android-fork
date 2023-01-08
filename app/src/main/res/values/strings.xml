@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OpenRGB</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="firstsetup_label" translatable="false">First setup</string>
+    <string name="os_choose_label" translatable="false">SDK Server</string>
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="enterIPadressprompt">Enter the IP address of the host device</string>
+    <string name="HostSDK">Make sure to enable the OpenRGB SDK on the host device. This will need to be done every time you restart your computer/OpenRGB</string>
+    <string name="FirstSetup">The app will now guide you through setting it up. You will have to do this only once.</string>
+</resources>
