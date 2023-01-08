@@ -5,5 +5,5 @@
     <string name="previous">Předchozí</string>
     <string name="enterIPadressprompt">Zadej IP adresu zařízení na kterém je zapnuto OpenRGB</string>
     <string name="HostSDK">Nezapomeň zapnout SDK v OpenRGB. Tohle budeš muset udělat pokaždé co restartuješ počítač/OpenRGB</string>
-    <string name="FirstSetup">Nyní začneme s nastavením aplikace. Tohle bude jenom jednou.</string>
+    <string name="FirstSetup">Nyní  aplikaci nastavíte. Tohle bude jenom jednou.</string>
 </resources>
