@@ -1,5 +1,5 @@
-# OpenRGB-Android
+
+# This repository is officially abandoned (For now, might return to it during the summer). I don't have the time and resources to finish this app. If you want, you can fork it and continue working on it.
+
+### OpenRGB-Android
 #### Android app to control OpenRGB via. the SDK server built into the application.
-
-
-(Most of the progress is being made offline, thats why this is kinda empty) [Also i may have deleted some important android studio folders and now it wont launch]
